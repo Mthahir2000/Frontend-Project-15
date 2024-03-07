@@ -136,7 +136,7 @@ img{
 }
   
 .section-c .gallery a:nth-child(2){
-  grid-column-start: 3/5;
+  grid-column: 3/5;
 }
   
 .section-c .gallery img,
